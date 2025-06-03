@@ -53,6 +53,8 @@ python get_team_data_new.py
 
 You should configure it before running.
 
+Before scraping team or match data you need to run the team or match URL file. This will scrape the URLs from HLTV.org for the other files to use it. The saved data will automatically be saved in data/name.csv by default. You can easily change this in the config of each file. 
+
 ---
 
 ## Configuration
