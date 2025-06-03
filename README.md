@@ -28,7 +28,7 @@ A simple and open-source HLTV.org web scraper built with Camoufox and BeautifulS
 
 ## Installation
 
-Install via pip:
+Install via git & pip:
 
 ```bash
 git clone https://github.com/ClassicalClemi/python-hltv-scraper.git
