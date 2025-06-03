@@ -38,6 +38,12 @@ pip install -r requirements.txt
 
 Python 3.x is needed.
 
+To install the camoufox browser:
+
+```bash
+camoufox fetch
+```
+
 ---
 
 ## Usage
