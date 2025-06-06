@@ -12,6 +12,7 @@ A simple and open-source HLTV.org web scraper built with Camoufox and BeautifulS
 - Improved error handling and retry logic to make the scraping process more robust and reliable.
 - Detailed logging and progress reporting so you always know what’s happening.
 - Ongoing active maintenance and improvements based on your feedback.
+- An improved README.md to help you guys understand my mess.
 
 ## And the best out of all... Player Data Scraping! 🎉
 Stay tuned... ;)
