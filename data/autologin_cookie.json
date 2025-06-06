@@ -1,0 +1,19 @@
+[
+  {
+    "name": "autologin",
+    "value": "your_autologin_cookie",
+    "domain": "www.hltv.org",
+    "path": "/",
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "CookieConsent",
+    "value": "your_cookieconsent_value",
+    "domain": "www.hltv.org",
+    "path": "/",
+    "httpOnly": false,
+    "secure": true
+  }
+]
