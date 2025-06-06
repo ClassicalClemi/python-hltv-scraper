@@ -1,3 +1,5 @@
 beautifulsoup4==4.13.4
+browserforge==1.2.3
 camoufox==0.4.11
-pandas==2.2.3
+pandas==2.3.0
+python_dateutil==2.9.0.post0
