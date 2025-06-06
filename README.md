@@ -4,6 +4,18 @@
 
 A simple and open-source HLTV.org web scraper built with Camoufox and BeautifulSoup, written entirely in Python.
 
+## This will get a major update/overhaul very soon, you can expect:
+- Every script will be fully asynchronous! This means you can scrape data in multiple parallel sessions, drastically improving speed and efficiency.
+- Integrated proxy support with automatic rotation to help you stay under the radar and avoid IP bans.
+- Enhanced security measures including dynamic User-Agent rotation, cookie management, and support for auto-login to seamlessly bypass Cloudflare and other anti-bot protections.
+- Cleaner, modular codebase designed for easy customization and extension — perfect for both beginners and advanced users.
+- Improved error handling and retry logic to make the scraping process more robust and reliable.
+- Detailed logging and progress reporting so you always know what’s happening.
+- Ongoing active maintenance and improvements based on your feedback.
+
+## And the best out of all... Player Data Scraping! 🎉
+Stay tuned... ;)
+
 ---
 
 ## Table of Contents
