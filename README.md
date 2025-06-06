@@ -187,6 +187,26 @@ Each script contains a `config` dictionary with options such as:
 - `user_agents_location` — str — JSON file location to read user_agents
 - `cookie_location` — str — JSON file location to get cookies to apply
 
+  <details> 
+      <summary>Example structure:</summary>
+      
+      config = {
+            "file_to_read": "rework/data/team_urls.csv",
+            "savefile_location": "rework/data/team_data.csv",
+            "team_amount": 100,  # -1 = all
+            "headless": True,
+            "screen": Screen(max_width=1920, max_height=1080),
+            "screen_amount": 1,
+            "session_amount": 5,
+            "session_timeout": 1,
+            "use_proxy": True,
+            "use_proxy_once": True,
+            "proxy_location": "rework/data/proxies.txt",
+            "user_agents_location": "rework/data/user_agents.json",
+            "cookie_location": "rework/data/autologin_cookie.json",
+        }
+    </details>
+
 All options are also commented inside the scripts for clarity.
 
 ---
