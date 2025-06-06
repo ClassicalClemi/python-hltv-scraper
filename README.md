@@ -227,7 +227,7 @@ Dynamic User-Agent rotation helps mimic real browsers:
 
 - User Agents (as .json file):
   
-  ![image](https://github.com/user-attachments/assets/e7b86a97-5821-46dc-aa8f-568b3302e406)
+  ![image](https://github.com/user-attachments/assets/2c7c53ea-489e-4b6e-980c-b88ce12e142d)
 
 I like to get user agents from https://www.useragents.me/#most-common-desktop-useragents-json-csv
 
