@@ -229,6 +229,8 @@ Dynamic User-Agent rotation helps mimic real browsers:
   
   ![image](https://github.com/user-attachments/assets/e7b86a97-5821-46dc-aa8f-568b3302e406)
 
+I like to get user agents from https://www.useragents.me/#most-common-desktop-useragents-json-csv
+
 ### Cookies & Sessions
 
 Persistent cookies and session management improve Cloudflare bypass:
