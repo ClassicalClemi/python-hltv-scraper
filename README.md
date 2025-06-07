@@ -226,8 +226,8 @@ To avoid IP bans and improve anonymity, you can configure proxy support:
 Dynamic User-Agent rotation helps mimic real browsers:
 
 - User Agents (as .json file):
-  
-  ![image](https://github.com/user-attachments/assets/2c7c53ea-489e-4b6e-980c-b88ce12e142d)
+
+- I accidentally added the wrong picture here, the format is basically the exact same as the json one from the website below
 
 I like to get user agents from https://www.useragents.me/#most-common-desktop-useragents-json-csv
 
