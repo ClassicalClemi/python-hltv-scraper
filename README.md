@@ -237,7 +237,7 @@ Persistent cookies and session management improve Cloudflare bypass:
 
 - Cookies incl. autologin (as .json file):
   
-  ![image](https://github.com/user-attachments/assets/953a6a4d-9bb6-46ec-b3e5-5243ddb93423)
+  ![image](https://github.com/user-attachments/assets/4795165c-1af4-4849-a62f-d7b039704b45)
 
 How to get autologin cookie:
 - Open HLTV.org
